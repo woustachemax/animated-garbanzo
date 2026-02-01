@@ -74,7 +74,7 @@ const AppleInvites = () => {
       <Stagger
       initialEnteringDelay={1000}
       duration={500}
-      stagger={500}
+      stagger={250}
       style={{flex:0.5, justifyContent: "center", alignItems: "center"}}>
         
         <Animated.View style={{justifyContent:"center", alignContent: "center"}}>
